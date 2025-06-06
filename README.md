@@ -1,5 +1,5 @@
 # ilya-top30-implementations
-My quest in learning and implementing Ilya Sutskever's Top 30 Papers. Zero AI aid.
+My quest in learning and implementing Ilya Sutskever's Top 30 Papers. From scratch implementations, zero AI aid.
 
 ## TODO:
 - [ ] The First Law of Complexodynamics  
